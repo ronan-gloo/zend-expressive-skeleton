@@ -1,5 +1,6 @@
 # Expressive Skeleton and Installer
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c3639623de6647e09aa792b18571114b)](https://www.codacy.com/app/ronan-gloo/zend-expressive-skeleton?utm_source=github.com&utm_medium=referral&utm_content=ronan-gloo/zend-expressive-skeleton&utm_campaign=badger)
 [![Build Status](https://secure.travis-ci.org/zendframework/zend-expressive-skeleton.svg?branch=master)](https://secure.travis-ci.org/zendframework/zend-expressive-skeleton)
 [![Coverage Status](https://coveralls.io/repos/github/zendframework/zend-expressive-skeleton/badge.svg?branch=master)](https://coveralls.io/github/zendframework/zend-expressive-skeleton?branch=master)
 
